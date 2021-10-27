@@ -172,3 +172,5 @@ $RECYCLE.BIN/
 
 # Typescript
 dist
+
+reports/
